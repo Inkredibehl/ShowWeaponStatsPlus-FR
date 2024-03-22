@@ -1,0 +1,21 @@
+Tooltip_FR = {
+  Tooltip_SWSP_Axe                = "Hache",
+  Tooltip_SWSP_LongBlade          = "Lame Longue",
+  Tooltip_SWSP_SmallBlade         = "Lame Courte",
+  Tooltip_SWSP_Blunt              = "Arme Contondante Longue",
+  Tooltip_SWSP_SmallBlunt         = "Arme Contondante Courte",
+  Tooltip_SWSP_Spear              = "Lance",
+  Tooltip_SWSP_Improvised         = "Improvisé",
+  Tooltip_SWSP_Firearm            = "Arme à Feu",
+  Tooltip_SWSP_Damage             = "Dégats: %s- %s (+%d%%)",
+  Tooltip_SWSP_Range              = "Portée: %s - %s",
+  Tooltip_SWSP_MaxHit             = "Max hit: %d",
+  Tooltip_SWSP_Crit               = "Critiques: %s%% (+%d%%), %sx",
+  Tooltip_SWSP_Condition          = "Condition: %d/%d",
+  Tooltip_SWSP_BreakChance        = "Chance de briser: 1/(%d + %d)",
+  Tooltip_SWSP_TreeBreakChance    = "Tree Break Chance: 1/%d",
+  Tooltip_SWSP_GunAccuracy        = "Précision: %d%% (+%d)%%",
+  Tooltip_SWSP_GunRange           = "Portée: %s - %s (+%d%%)",
+  Tooltip_SWSP_GunMisc            = "Temps de Visée/Rechargement/Recul: %d/%d/%d"
+  Tooltip_SWSP_GunNoise           = "Rayon/Volume du bruit: %d/%d",
+}

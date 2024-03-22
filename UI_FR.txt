@@ -1,0 +1,7 @@
+UI_FR = {
+  UI_SWSP_Option_Improvised  = "Armes Improvisées (Stylo, Crayon)",
+  UI_SWSP_Option_WeaponType  = "Montrer Type de l'Arme",
+  UI_SWSP_Option_MaxHit      = "Montrer le Max Hit",
+  UI_SWSP_Option_Tree        = "Montrer Tree Break Chance",
+  UI_SWSP_Option_TextColor   = "Couleur du texte",
+}
